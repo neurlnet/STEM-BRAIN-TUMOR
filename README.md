@@ -1,2 +1,2 @@
-# STEM
-React Website for STEM Project
+# Brain Tumor Detection using YOLOv8
+React Interface for prediction of the model. 
